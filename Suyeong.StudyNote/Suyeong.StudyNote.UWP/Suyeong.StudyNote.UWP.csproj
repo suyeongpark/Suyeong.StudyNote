@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{B223A744-2A8C-4DB5-B4D5-9DBED00A3F3A}</ProjectGuid>
+    <ProjectGuid>{683CDF0A-80C7-4726-9F85-039B6781566F}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Suyeong.StudyNote.UWP</RootNamespace>
@@ -148,7 +148,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Suyeong.StudyNote\Suyeong.StudyNote.csproj">
-      <Project>{7A4A236D-E59A-4D1D-9EA1-CBF33E8B89DD}</Project>
+      <Project>{43EB58C7-28BB-4F39-BE61-6B18FCDE5DC6}</Project>
       <Name>Suyeong.StudyNote</Name>
     </ProjectReference>
   </ItemGroup>

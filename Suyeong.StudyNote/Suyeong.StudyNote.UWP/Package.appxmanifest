@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="e1852b99-af4d-444f-8a05-557d1a90f6e7"
-    Publisher="CN=81224812-e0d4-4c9a-821d-754b046f29b5"
+    Name="630cf551-7519-462d-8a13-aab1ba98c649"
+    Publisher="CN=f5a9add9-1d66-4e97-a016-a8615b82260a"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="ec0cc741-fd3e-485c-81be-68815c480690" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Suyeong.StudyNote.UWP</DisplayName>
-    <PublisherDisplayName>81224812-e0d4-4c9a-821d-754b046f29b5</PublisherDisplayName>
+    <PublisherDisplayName>f5a9add9-1d66-4e97-a016-a8615b82260a</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 

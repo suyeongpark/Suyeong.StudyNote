@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A112ACEF-BFFD-44D7-84B1-330F59C4A6CD}</ProjectGuid>
+    <ProjectGuid>{892F0F77-3332-46D6-B1CB-FAB3500D3046}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{c9e5eea5-ca05-42a1-839b-61506e0a37df}</TemplateGuid>
     <OutputType>Library</OutputType>
@@ -93,7 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Suyeong.StudyNote\Suyeong.StudyNote.csproj">
-      <Project>{7A4A236D-E59A-4D1D-9EA1-CBF33E8B89DD}</Project>
+      <Project>{43EB58C7-28BB-4F39-BE61-6B18FCDE5DC6}</Project>
       <Name>Suyeong.StudyNote</Name>
     </ProjectReference>
   </ItemGroup>
